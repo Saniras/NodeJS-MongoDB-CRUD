@@ -1,0 +1,10 @@
+Make .env in your project 
+
+
+Note: Not dotenv, Not txt file, Create Like Example => .env
+
+
+Add the below code in .env file
+ 
+PORT  = 9091
+MONGO_URL = mongodb://localhost:27017/MongoCRUD
